@@ -1,3 +1,11 @@
+/*
+Author: Frida Mesa
+Course: CSCI-135
+Instructor: Micheal Zamansky
+Assignment: Lab 3A
+This code writes a program that asks the user to input a string representing the date (in MM/DD/YYYY format), and prints out 
+the East basin storage on that day.
+*/
 
 #include<iostream>
 #include<fstream>
