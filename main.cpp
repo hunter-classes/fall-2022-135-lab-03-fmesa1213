@@ -13,7 +13,7 @@ string date;
 double eastSt,eastEl,westSt,westEl;
 
 string userdate;  
-cout<<"Enter date: ";
+cout<<"Enter a date: ";
 cin>>userdate;
 
 ifstream fin("Current_Reservoir_Levels.tsv");
